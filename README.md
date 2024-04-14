@@ -10,6 +10,13 @@ Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades
     <img src="https://github.com/Rhu-Martins/Clone-Nubank/assets/101530922/a0b83849-455b-42e4-9fa9-a9593be989ee" alt="sales" style="width: 200px; margin-lefht: 10px">
 </div>
 
+![home](https://github.com/Rhu-Martins/clone_nubank/assets/101530922/b91ee05b-8dcc-402a-b4ea-90ff6e998f48)
+![invest](https://github.com/Rhu-Martins/clone_nubank/assets/101530922/f9a20532-9618-4b80-94ff-bc11621d6c46)
+![sales](https://github.com/Rhu-Martins/clone_nubank/assets/101530922/7fea2b7a-3430-415d-bb2e-d0961eb04a98)
+
+
+
+
 Funcionalidades Implementadas
 
 Tela Principal: Replicação da telas principais do Nubank, exibindo os principais cartões do usuário e opções de navegação.
