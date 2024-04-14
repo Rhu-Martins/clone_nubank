@@ -5,16 +5,10 @@ Projeto de Replicação de Telas do Nubank em Flutter
 Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades em Flutter, especialmente em relação à criação de interfaces de usuário e à reutilização de código por meio da componentização de widgets.
 
 <div style="display:flex; justify-content: space-between;">
-    <img src="https://github.com/Rhu-Martins/Clone-Nubank/assets/101530922/40673690-d2e6-492b-b43a-750a2b5d1d4d" alt="home" style="width: 200px; margin-right: 10px">    
-    <img src="https://github.com/Rhu-Martins/Clone-Nubank/assets/101530922/d568eb97-9b77-49ad-b0e2-4af16b668f65" alt="invest" style="width: 200px;">    
-    <img src="https://github.com/Rhu-Martins/Clone-Nubank/assets/101530922/a0b83849-455b-42e4-9fa9-a9593be989ee" alt="sales" style="width: 200px; margin-lefht: 10px">
+    <img src="https://github.com/Rhu-Martins/clone_nubank/assets/101530922/b91ee05b-8dcc-402a-b4ea-90ff6e998f48" alt="home" style="width: 200px; margin-right: 10px">    
+    <img src="https://github.com/Rhu-Martins/clone_nubank/assets/101530922/f9a20532-9618-4b80-94ff-bc11621d6c46" alt="invest" style="width: 200px;">    
+    <img src="https://github.com/Rhu-Martins/clone_nubank/assets/101530922/7fea2b7a-3430-415d-bb2e-d0961eb04a98" alt="sales" style="width: 200px; margin-lefht: 10px">
 </div>
-
-![home](https://github.com/Rhu-Martins/clone_nubank/assets/101530922/b91ee05b-8dcc-402a-b4ea-90ff6e998f48)
-![invest](https://github.com/Rhu-Martins/clone_nubank/assets/101530922/f9a20532-9618-4b80-94ff-bc11621d6c46)
-![sales](https://github.com/Rhu-Martins/clone_nubank/assets/101530922/7fea2b7a-3430-415d-bb2e-d0961eb04a98)
-
-
 
 
 Funcionalidades Implementadas
