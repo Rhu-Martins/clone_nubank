@@ -1,16 +1,50 @@
 # clone_nubank
 
-A new Flutter project.
+Projeto de Replicação de Telas do Nubank em Flutter
 
-## Getting Started
+Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades em Flutter, especialmente em relação à criação de interfaces de usuário e à reutilização de código por meio da componentização de widgets.
 
-This project is a starting point for a Flutter application.
+<div style="display:flex; justify-content: space-between;">
+    <img src="https://github.com/Rhu-Martins/Clone-Nubank/assets/101530922/40673690-d2e6-492b-b43a-750a2b5d1d4d" alt="home" style="width: 200px; margin-right: 10px">    
+    <img src="https://github.com/Rhu-Martins/Clone-Nubank/assets/101530922/d568eb97-9b77-49ad-b0e2-4af16b668f65" alt="invest" style="width: 200px;">    
+    <img src="https://github.com/Rhu-Martins/Clone-Nubank/assets/101530922/a0b83849-455b-42e4-9fa9-a9593be989ee" alt="sales" style="width: 200px; margin-lefht: 10px">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+Funcionalidades Implementadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tela Principal: Replicação da telas principais do Nubank, exibindo os principais cartões do usuário e opções de navegação.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Componentização de Widgets: Os diversos elementos visuais presentes nas telas foram divididos em widgets reutilizáveis, permitindo uma estrutura de código mais limpa e organizada.
+
+List View: Utilização extensiva do widget ListView para exibir listas de itens, como transações, categorias e informações de cartão.
+
+Tecnologias Utilizadas
+
+Flutter: Framework de desenvolvimento de aplicativos móveis multiplataforma, desenvolvido pelo Google.
+
+Dart: Linguagem de programação utilizada para desenvolver aplicativos Flutter.
+
+Como Executar o Projeto
+
+Certifique-se de ter o ambiente de desenvolvimento Flutter configurado em sua máquina. Caso contrário, siga as instruções disponíveis na documentação oficial do Flutter.
+
+Clone este repositório para sua máquina local usando o comando:
+
+bash
+git clone https://github.com/seuusuario/nubank_clone_flutter.git
+
+Navegue até o diretório do projeto:
+
+bash
+Copy code
+cd nubank_clone_flutter
+
+Execute o aplicativo em um dispositivo ou emulador:
+
+bash
+Copy code
+flutter run
+
+Ass.: Rhuan Martins
+
+
