@@ -46,6 +46,6 @@ bash
 Copy code
 flutter run
 
-Ass.: Rhuan Martins
+Ass.: Rhuan Martins Neves
 
 
